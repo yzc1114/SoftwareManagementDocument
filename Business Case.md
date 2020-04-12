@@ -1,13 +1,5 @@
 ## Business Case
 
-<div>
-  <center>分布式端到端key-value内存缓存数据库商业案例分析</center>
-  <div align=right>
-    作者：杨紫超
-    <br>
-    日期：2020-04-10
-  </div>
-</div>
 
 ### Executive Summary
 
