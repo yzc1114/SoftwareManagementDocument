@@ -297,4 +297,4 @@
    </tr>
 </table>
 
-![image-20200411173443551](E:\study\软件项目与过程管理\SoftwareManagementDocument\images\earned_value.png)
+![image-20200411173443551](.\images\earned_value.png)
