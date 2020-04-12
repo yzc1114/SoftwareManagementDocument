@@ -297,4 +297,4 @@
    </tr>
 </table>
 
-![image-20200411173443551](.\images\earned_value.png)
+![image-20200412120217626](images\earned_value.png)
