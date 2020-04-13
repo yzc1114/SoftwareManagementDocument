@@ -76,7 +76,7 @@
 |                      | 帮助客户解决运行时问题     |
 |                      | 维护现有系统的正常运行     |
 
-#### Personal Managment
+#### Personal Management
 
 | 岗位         | 人数 |
 | ------------ | ---- |
