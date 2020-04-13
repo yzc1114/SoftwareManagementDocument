@@ -1,12 +1,12 @@
-### 2.4 Project Monitoring & Control
+### Project Monitoring & Control
 
-#### 2.4.1 Project control cycle
+#### Project control cycle
 
 本项目使用螺旋过程模型,将整个项目分为多个螺旋阶段,每个螺旋阶段的控制周期如下图所示
 
 ![ycl](./images/cycle.png)
 
-#### 2.4.2 Reporting
+#### Reporting
 
 本项目主要采用报告的方式对项目的进展进行监督,报告根据用途分为一下几种:
 
@@ -34,7 +34,7 @@
    * 该报告类型为特定书面正式报告,在发生异常情况下提交(如项目资金不足,人员变更等)
    * 管理人员根据报告内容给出相应的解决方案
 
-#### 2.4.3 Visualizing progress
+#### Visualizing progress
 
 本项目采用时间线对项目进展情况进行可视化描述
 
@@ -42,7 +42,7 @@
 
 ![](images/timeline.png)
 
-#### 2.4.4 Earned value analysis
+#### Earned value analysis
 
 本项目采用挣值分析法对项目进行成本监督,采用0/100方法进行计算,下表(图)为项目的基线预算计算
 
