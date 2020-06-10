@@ -42,7 +42,7 @@
 
 Godis是一个轻量级的端到端的key-value内存数据库产品Godis，该产品将为所需要使用web技术的公司和组织提供一个高速的、高并发的、分布式的内存缓存解决方案，可用作数据库、缓存或消息中间件。Godis是一个key-value型的内存存储数据库，数据按照键值对的形式进行组织、索引和存储，数据的存储及数据库的运行均在内存中，Godis应对其存储模型不断地优化以节省内存空间。Godis将支持多种数据结构类型，如字符串（string）、散列（hash）、列表（list）、集合（set）、有序集合（sorted set）与范围查询、索引查询等，同时，Godis也支持事务（transaction）和不同级别的磁盘持久化机制，并提供类似Redis哨兵机制等监控控件和分区来提高可用性。Godis将会持续结合吸纳现有的缓存技术的优点，并持续配套开发与各类web框架的集成能力，形成更强的竞争力，最终完成一个高性能的商业数据库。
 
-## **Project Organizational Value**：
+## **Project Measurable Organizational Value**：
 
 | Area of Impact | The project will be successful if …                          |
 | :------------: | ------------------------------------------------------------ |
@@ -59,6 +59,10 @@ Godis
 ## **Project Schedule**：
 
 **Project Start Date**:                                             **Project Finish Date**: 
+
+**WBS**：
+
+![WBS](./images/WBS.png)
 
 **网络图**：
 
